@@ -18,7 +18,7 @@ Avant de démarrer, assurez-vous d'avoir installé les éléments suivants :
 - **Maven** (pour la gestion des dépendances)
 - **MySQL** (comme base de données)
 
-##demo
+## demo
 
 
 https://github.com/user-attachments/assets/1302fadd-68d2-4101-b470-098ae23dd1c1
